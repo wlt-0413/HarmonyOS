@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "Start",
+      "pageSourceFile": "src/main/ets/pages/Start.ets",
+      "buildFunction": "StartBuilder"
+    },
+    {
+      "name": "Layout",
+      "pageSourceFile": "src/main/ets/pages/Layout.ets",
+      "buildFunction": "LayoutBuilder"
+    },
+    {
+      "name": "Login",
+      "pageSourceFile": "src/main/ets/pages/Login.ets",
+      "buildFunction": "LoginBuilder"
+    },
+    {
+      "name": "Project",
+      "pageSourceFile": "src/main/ets/pages/Project.ets",
+      "buildFunction": "ProjectBuilder"
+    },
+    {
+      "name": "Work",
+      "pageSourceFile": "src/main/ets/pages/Work.ets",
+      "buildFunction": "WorkBuilder"
+    },
+    {
+      "name": "JiControl",
+      "pageSourceFile": "src/main/ets/pages/JiControl.ets",
+      "buildFunction": "JiControlBuilder"
+    },
+    {
+      "name": "YaControl",
+      "pageSourceFile": "src/main/ets/pages/YaControl.ets",
+      "buildFunction": "YaControlBuilder"
+    },
+    {
+      "name": "HenMent",
+      "pageSourceFile": "src/main/ets/pages/HenMent.ets",
+      "buildFunction": "HenMentBuilder"
+    }
+  ]
+}
